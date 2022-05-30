@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav{
+    background-color: rgb(185, 230, 40);
+    font-size: 1.2rem;
+    text-align: center;
+    line-height: 32px;
+}
+nav > a {
+    color: #df098d;
+    margin-right: 35px;
+}
+.active{
+    background-color: red;
+    padding: 2px;
+    color: white;
+}
